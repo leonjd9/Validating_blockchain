@@ -1,5 +1,6 @@
 # Validating_blockchain
-The application runs a blockchain-based ledger system which allows to conduct and store transactions. It counts with a hashing system which can be adjusted from 1 to 5 level of diddiculty. Each transactions records sender, reciver, amount, time of transaction, creator Id, and previous hash code in a data frame. In order to enable full functionality, the code is ran through streamlit web site. 
+
+The application runs a blockchain-based ledger system which generates and store transactions. It counts with a hashing system with adjustable difficulty(1-5). Each transaction keeps record of sender, receiver, amount, time of transaction, creator Id, and previous hash code. The information is stored in a data frame. For user convenience, the program counts with streamlite capability features.
 
 
 #Installations and imports
